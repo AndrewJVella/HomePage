@@ -1,4 +1,4 @@
 # HomePage
 This is my home page.
 
-Link: https://andrewjvella.github.io/PersonalHomePage/
+Link: https://andrewjvella.github.io/HomePage/
